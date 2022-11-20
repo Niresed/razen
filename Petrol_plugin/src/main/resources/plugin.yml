@@ -1,0 +1,9 @@
+name: Petrol
+version: '${project.version}'
+main: me.niresed.petrol.Petrol
+api-version: 1.16
+commands:
+  die:
+    description: to kill yourself
+  gm4:
+    description: gamemode 4
